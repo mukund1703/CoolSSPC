@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Cool SSP Challenge</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="random_name"></string>
+</resources>
